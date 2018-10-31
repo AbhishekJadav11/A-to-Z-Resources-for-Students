@@ -334,9 +334,7 @@ Instructions :
 | 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 | 217 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
 | 301 | **Sean Mayton** | United States | Tech Apprentice | [GitHub](https://github.com/maytonsw) |
-
-
-
+| 302 | **Abhishek Jadav** | India | Student | [GitHub](https://github.com/AbhishekJadav11) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
